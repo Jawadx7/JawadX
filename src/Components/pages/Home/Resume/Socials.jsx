@@ -36,7 +36,7 @@ const Socials = () => {
       </li>
       <li className="w-10 h-10 bg-grey list-none flex justify-center align-center rounded-full transition_ease hover:bg-orange">
         <a
-          href="https://github.com/PJmax26"
+          href="https://github.com/Jawadx7"
           className="w-full h-full flex justify-center align-center"
           target="_blank"
         >
