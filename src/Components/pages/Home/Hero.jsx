@@ -1,8 +1,8 @@
-import Profile from "../../asserts/images/profile-bg.png";
+import Profile from "../../../asserts/images/profile-bg.png";
 // import Profile from "../../asserts/images/profile.jpeg";
 import { FaPaperPlane } from "react-icons/fa6";
 import { FaDownload } from "react-icons/fa6";
-import CV from "../../asserts/data/Resume-re.pdf";
+import CV from "../../../asserts/data/Resume-re.pdf";
 // import { useTypewriter, Cursor } from "react-simple-typewriter";
 
 const Hero = () => {

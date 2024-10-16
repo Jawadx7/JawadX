@@ -1,4 +1,4 @@
-import { projectsList } from "../../Data";
+import { projectsList } from "../../../Data";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import FeaturedProjects from "./FeaturedProjects";
 

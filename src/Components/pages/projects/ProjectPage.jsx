@@ -1,7 +1,7 @@
 "use client";
 import { useParams, Link } from "react-router-dom";
-import "../../asserts/styles/projects.scss";
-import { featured_projects } from "../../asserts/data/featured_projects";
+import "../../../asserts/styles/projects.scss";
+import { featured_projects } from "../../../asserts/data/featured_projects";
 import { ArrowLeft } from "lucide-react";
 import { BiLink } from "react-icons/bi";
 

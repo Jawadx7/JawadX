@@ -1,4 +1,4 @@
-import EinusImg from "../../../asserts/images/Einus.webp";
+import EinusImg from "../../../../asserts/images/Einus.webp";
 // import { TbStarFilled } from "react-icons/tb";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { BsTwitterX } from "react-icons/bs";

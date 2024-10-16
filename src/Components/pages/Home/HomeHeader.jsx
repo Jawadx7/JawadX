@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../../asserts/styles/Header.scss";
+import "../../../asserts/styles/Header.scss";
 
 const HomeHeader = () => {
   const [active, setActive] = useState("home");

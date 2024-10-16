@@ -1,6 +1,6 @@
 import Socials from "./Socials";
 // import Profile2 from "../../../asserts/images/code-1-bg.png";
-import Profile2 from "../../../asserts/images/profile.png";
+import Profile2 from "../../../../asserts/images/profile.png";
 import { Link } from "react-router-dom";
 
 const About = ({ active }) => {

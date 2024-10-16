@@ -1,6 +1,6 @@
-import { featured_projects } from "../../asserts/data/featured_projects";
-import "../../App.scss";
-import "../../asserts/styles/work.scss";
+import { featured_projects } from "../../../asserts/data/featured_projects";
+import "../../../App.scss";
+import "../../../asserts/styles/work.scss";
 import { Link } from "react-router-dom";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import { BookOpen } from "lucide-react";

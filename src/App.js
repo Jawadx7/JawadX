@@ -1,9 +1,9 @@
 import "./App.scss";
-import Home from "./pages/Home/Home";
-import About from "./pages/About/About";
+import Home from "./Components/pages/Home/Home";
+import About from "./Components/pages/About/About";
 import Footer from "./Components/Footer";
-import Allprojects from "./pages/projects/Allprojects";
-import ProjectPage from "./pages/projects/ProjectPage";
+import Allprojects from "./Components/pages/projects/Allprojects";
+import ProjectPage from "./Components/pages/projects/ProjectPage";
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
